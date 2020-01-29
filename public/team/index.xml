@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Family and Financial Therapy</title>
+    <link>/team/</link>
+    <description>Recent content in Team on Family and Financial Therapy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Jean Theurer</title>
+      <link>/team/jean-theurer/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/jean-theurer/</guid>
+      <description>Pyschology Today I specialize in helping individuals, couples, and families develop healthy, happy, and successful relationships. My approach is influenced by your specific needs, goals, and life circumstances.
+I endeavor to create a supportive therapeutic environment where you feel heard and understood so you can engage in meaningful exploration of the issues that are impacting your well-being. Through therapy, I believe your relationships with yourself, your family and loved ones, and your money can improve.</description>
+    </item>
+    
+    <item>
+      <title>⠀</title>
+      <link>/team/zeducation/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/zeducation/</guid>
+      <description>   PhD in Counselor Education, 2015
+University of Florida
+    Masters in Business Administration, 1983
+The Wharton School, University of Pennsylvania
+   </description>
+    </item>
+    
+  </channel>
+</rss>
